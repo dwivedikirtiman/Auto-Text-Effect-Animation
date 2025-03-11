@@ -22,7 +22,7 @@ This is a simple yet visually appealing Auto Text Effect Animation project built
 
 - Clone this repository:
 
-   ```git clone <repo-link>```
+   ```git clone https://github.com/dwivedikirtiman/Auto-Text-Effect-Animation.git```
 
 - Open the ```index.html``` file directly in your browser.
 
